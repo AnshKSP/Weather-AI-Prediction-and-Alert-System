@@ -94,3 +94,13 @@ This project was created by:
 * **Ansh Patel:** [GitHub](https://github.com/AnshKSP) | [LinkedIn](https://linkedin.com/in/yourlinkedin)
 * **Dwij Chauhan:** [GitHub](https://github.com/yourgithub) | [LinkedIn](https://linkedin.com/in/yourlinkedin)
 * **Devanshu Rana:** [GitHub](https://github.com/yourgithub) | [LinkedIn](https://linkedin.com/in/yourlinkedin)
+
+---
+
+### 🚀 Run It
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
