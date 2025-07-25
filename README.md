@@ -91,10 +91,10 @@ You need to have Python and pip installed on your system.
 
 This project was created by:
 
-* **Ansh Patel:** [GitHub](https://github.com/AnshKSP) | [LinkedIn](https://linkedin.com/in/yourlinkedin)
+* **Ansh Patel:** [GitHub](https://github.com/AnshKSP) | [LinkedIn](https://linkedin.com/in/anshpatel2511)
 * **Dwij Chauhan:** [GitHub](https://github.com/yourgithub) | [LinkedIn](https://linkedin.com/in/yourlinkedin)
 * **Devanshu Rana:** [GitHub](https://github.com/yourgithub) | [LinkedIn](https://linkedin.com/in/yourlinkedin)
-
+* **Harsh Dave:** [GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/in/Dave-Harsh2812)
 ---
 
 ### 🚀 Run It
