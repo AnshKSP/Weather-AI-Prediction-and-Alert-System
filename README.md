@@ -93,7 +93,6 @@ This project was created by:
 
 * **Ansh Patel:** [GitHub](https://github.com/AnshKSP) | [LinkedIn](https://linkedin.com/in/anshpatel2511)
 * **Dwij Chauhan:** [GitHub](https://github.com/DwijChauhan) | [LinkedIn](https://www.linkedin.com/in/Dwij-Chauhan/)
-* **Devanshu Rana:** [GitHub](https://github.com/yourgithub) | [LinkedIn](https://linkedin.com/in/yourlinkedin)
 * **Harsh Dave:** [GitHub](https://github.com/Harsh5468) | [LinkedIn](https://linkedin.com/in/Dave-Harsh2812)
 ---
 
